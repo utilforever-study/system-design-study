@@ -67,7 +67,7 @@ What’s inside?
 
 ### Chapter 9: S3-like Object Storage
 
-- Presenter: TBA
+- Presenter: Seungrok Lee [[Summary]](./01%20-%20Summary/261024%20-%20System%20Design%20Interview%20–%20An%20Insider's%20Guide,%20Volume%202,%20Chapter%209.pdf)
 
 ### Chapter 10: Real-time Gaming Leaderboard
 
