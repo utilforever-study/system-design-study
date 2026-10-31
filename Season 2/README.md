@@ -71,7 +71,7 @@ What’s inside?
 
 ### Chapter 10: Real-time Gaming Leaderboard
 
-- Presenter: Donghyeon Yeo [[Summary]](./01%20-%20Summary/261030%20-%20System%20Design%20Interview%20–%20An%20Insider's%20Guide,%20Volume%202,%20Chapter%2010.pdf)
+- Presenter: Donghyeon Yeo [[Summary]](./01%20-%20Summary/261030%20-%20System%20Design%20Interview%20–%20An%20Insider's%20Guide,%20Volume%202,%20Chapter%2010.pdf) [[Discussion]](./02%20-%20Discussion/261031%20-%20System%20Design%20Interview%20–%20An%20Insider's%20Guide,%20Volume%202,%20Chapter%2010.md)
 
 ### Chapter 11: Payment System
 
