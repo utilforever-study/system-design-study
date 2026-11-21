@@ -75,7 +75,7 @@ What’s inside?
 
 ### Chapter 11: Payment System
 
-- Presenter: TBA
+- Presenter: Seojin [[Summary]](./01%20-%20Summary/261121%20-%20System%20Design%20Interview%20–%20An%20Insider's%20Guide,%20Volume%202,%20Chapter%2011.pdf)
 
 ### Chapter 12: Digital Wallet
 
